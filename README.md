@@ -10,12 +10,6 @@ Welcome to iDiscuss! This project was my first significant endeavor in my journe
 - **Search Bar**: A functional search bar to find questions, answers, and blogs.
 - **Responsive Design**: A mobile-friendly design to provide a seamless experience on any device.
 
-## Screenshots
-
-![Home Page](screenshots/home_page.png)
-![Category Page](screenshots/category_page.png)
-![Question Page](screenshots/question_page.png)
-
 ## Installation
 
 To get a local copy up and running, follow these steps:
